@@ -6,7 +6,7 @@
 # Customer Churn Analysis & Retention Strategy
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](link_to_your_uploaded_image_here)
+<img src="Churn Analysis.png" width="800">
 
 ## 🎯 Project Objective
 The goal of this project was to analyze customer data to identify the key drivers of churn and provide actionable recommendations to increase retention.
